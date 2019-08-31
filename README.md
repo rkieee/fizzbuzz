@@ -1,2 +1,2 @@
-# fizzbuzz
+# todolist
 kadai1
